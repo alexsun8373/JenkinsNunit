@@ -1,0 +1,10 @@
+C:\Project\Jenkins\BasicMaths\BasicMathsTest\bin\Debug\BasicMathsTest.dll
+C:\Project\Jenkins\BasicMaths\BasicMathsTest\bin\Debug\BasicMathsTest.pdb
+C:\Project\Jenkins\BasicMaths\BasicMathsTest\bin\Debug\BasicMaths.dll
+C:\Project\Jenkins\BasicMaths\BasicMathsTest\bin\Debug\nunit.framework.dll
+C:\Project\Jenkins\BasicMaths\BasicMathsTest\bin\Debug\BasicMaths.pdb
+C:\Project\Jenkins\BasicMaths\BasicMathsTest\bin\Debug\nunit.framework.pdb
+C:\Project\Jenkins\BasicMaths\BasicMathsTest\bin\Debug\nunit.framework.xml
+C:\Project\Jenkins\BasicMaths\BasicMathsTest\obj\Debug\BasicMathsTest.csprojResolveAssemblyReference.cache
+C:\Project\Jenkins\BasicMaths\BasicMathsTest\obj\Debug\BasicMathsTest.dll
+C:\Project\Jenkins\BasicMaths\BasicMathsTest\obj\Debug\BasicMathsTest.pdb

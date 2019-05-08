@@ -1,0 +1,5 @@
+C:\Project\Jenkins\BasicMaths\BasicMaths\bin\Debug\BasicMaths.dll
+C:\Project\Jenkins\BasicMaths\BasicMaths\bin\Debug\BasicMaths.pdb
+C:\Project\Jenkins\BasicMaths\BasicMaths\obj\Debug\BasicMaths.csprojResolveAssemblyReference.cache
+C:\Project\Jenkins\BasicMaths\BasicMaths\obj\Debug\BasicMaths.dll
+C:\Project\Jenkins\BasicMaths\BasicMaths\obj\Debug\BasicMaths.pdb
