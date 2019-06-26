@@ -18,7 +18,7 @@ namespace BasicMathsApp
             string strWriteFilePath = @"WriteLog.txt";
             
 
-            for (int i = 0; i < 1000; i++) {
+            for (int i = 0; i < 10; i++) {
                 StreamWriter swWriteFile = File.CreateText(strWriteFilePath);
                 double res1 = bm.Add(i, 1);
                 double res2 = bm.Substract(i, 1);
