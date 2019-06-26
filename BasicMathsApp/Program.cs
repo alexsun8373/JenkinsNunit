@@ -16,10 +16,10 @@ namespace BasicMathsApp
         {
             BasicMaths bm = new BasicMaths();
             string strWriteFilePath = @"WriteLog.txt";
-            StreamWriter swWriteFile = File.CreateText(strWriteFilePath);
+            
 
             for (int i = 0; i < 1000; i++) {
-
+                StreamWriter swWriteFile = File.CreateText(strWriteFilePath);
                 double res1 = bm.Add(i, 1);
                 double res2 = bm.Substract(i, 1);
                 double res3 = bm.divide(i, 2);
@@ -30,6 +30,8 @@ namespace BasicMathsApp
                 //Console.WriteLine(res3.ToString() + ' ');
                 //Console.WriteLine(res4.ToString() + ' ' + '\n');
                 System.Threading.Thread.Sleep(2000);
+
+                swWriteFile.Close();
             }
            
         }
