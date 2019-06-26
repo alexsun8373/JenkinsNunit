@@ -19,7 +19,8 @@ namespace BasicMathsApp
             
 
             for (int i = 0; i < 10; i++) {
-                StreamWriter swWriteFile = File.CreateText(strWriteFilePath);
+                StreamWriter swWriteFile = new StreamWriter(strWriteFilePath, true);
+                //StreamWriter swWriteFile = File.CreateText(strWriteFilePath);
                 double res1 = bm.Add(i, 1);
                 double res2 = bm.Substract(i, 1);
                 double res3 = bm.divide(i, 2);
